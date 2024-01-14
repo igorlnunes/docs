@@ -98,7 +98,7 @@ As you can see there are lots of SDKs to make it easier to communicate via RPC w
 
 ### Local Development
 
-To simulate RPCs and transactions locally, you can check [this guide](./02-local-development).
+To simulate RPCs and transactions locally, you can check [this guide](./02-local-development.md).
 
 ## Indexers
 
